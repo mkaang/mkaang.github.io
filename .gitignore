@@ -1,3 +1,9 @@
 archive
-starter-hugo-portfolio-theme
-html5up-strata.zip
+contents
+.DS_Store
+.bundle
+.jekyll-cache
+.sass-cache
+Gemfile.lock
+_site
+*.gem
