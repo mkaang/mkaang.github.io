@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-Hi, my name is Mustafa Kaan. I am currently working as a research assistant and continue my MSc program in CS. I am curious about data science and machine learning related topics. During my MSc, I did research about document classification and author profiling on social media. 
+Hi, my name is Mustafa Kaan. I work as a Data Scientist in telco industry. I am interested in Data Science and NLProc related topics. I am also curious about document analysis, ml explainability.
 
 <!-- - In academics, not all of your work result in an output such as a research paper because you investigate different methods and approaches but only a part of the work become suitable with your research hypothesis. In this personal blog, I will share about all the stuff even not end up with a good result. 
 - Besides academic research, I spent a lot of time with the business cases in the job applications and interviews. I will also share what I learned in these projects. -->
